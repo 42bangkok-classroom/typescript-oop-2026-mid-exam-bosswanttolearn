@@ -1,1 +1,3 @@
-// Write your code below
+const x: string = "Exam";
+
+console.log("Hello",x);
